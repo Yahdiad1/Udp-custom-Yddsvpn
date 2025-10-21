@@ -29,8 +29,3 @@ The "UDP Custom Manager" script enables UDP on a 64-bit VPS, provides functional
     ```sh
     menu
     ```
-
-## Credit
-
-This UDP Custom Manager script is made by Yhdsvpn.
-UDP Custom By ePro Dev. Team.
