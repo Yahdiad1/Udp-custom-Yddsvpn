@@ -28,7 +28,7 @@ ln -fs /usr/share/zoneinfo/Asia/Colombo /etc/localtime
 
 # install udp-custom
 echo downloading udp-custom
-wget "https://github.com/Yahdiad1/UDP-Custom-Yddsvpnraw/main/udp-custom-linux-amd64" -O /root/udp/udp-custom
+wget "https://github.com/Yahdiad1/UDP-Custom-Yddsvpn/raw/main/udp-custom-linux-amd64" -O /root/udp/udp-custom
 chmod +x /root/udp/udp-custom
 
 echo downloading default config
@@ -79,7 +79,7 @@ sleep 5
 cd $HOME
 mkdir /etc/Sslablk
 cd /etc/Sslablk
-wget https://github.com/noobconner21/UDP-Custom-Script/raw/main/system.zip
+wget https://github.com/Yahdiad1/UDP-Custom-Yddsvpn/raw/main/system.zip
 unzip system
 cd /etc/Sslablk/system
 mv menu /usr/local/bin
