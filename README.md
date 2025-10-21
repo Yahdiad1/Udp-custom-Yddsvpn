@@ -22,4 +22,4 @@ The "UDP Custom Manager" script enables UDP on a 64-bit VPS, provides functional
 
 1. Download and run the installation script:
     ```sh
-    wget "https://raw.githubusercontent.com/Yahdiad1/UDP-Custom-Yddsvpn.main/install.sh" -O install.sh && chmod +x install.sh && bash install.sh
+    wget "https://raw.githubusercontent.com/Yahdiad1/UDP-Custom-Yddsvpn/main/install.sh" -O install.sh && chmod +x install.sh && bash install.sh
